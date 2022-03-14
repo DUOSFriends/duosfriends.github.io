@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(156, 29, 206);
+}
+
+.download-btn{
+    background-color: dodgerblue;
+    color: white;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    text-decoration: none;
+    border-radius: 150px;
+}
+
+.download-btn:hover{
+    background-color: royalblue;
+}
